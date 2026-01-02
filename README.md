@@ -48,9 +48,13 @@
   <br/>
   
   ## 🤔 Github Stats
+  
   [![gunung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)]
+  
   <br/>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)]  
+
 </div>
 
   ## :phone: How to reach me 
