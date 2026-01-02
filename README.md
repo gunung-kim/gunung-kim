@@ -8,9 +8,9 @@ fl<div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a *gunung-kim*.<br/>
-  #### :fire: I aim to become a **Backend Developer**.<br/>
-  #### :mortar_board: ...
+  #### :raising_hand: I am a gunung-kim.<br/>
+  #### :fire: I aim to become a Backend Developer.<br/>
+  #### :mortar_board: 
   <br/>
   <br/>
   
@@ -42,9 +42,12 @@ fl<div>
   <br/>
   
   ## 🤔 Github Stats
-![gunung's GitHub Stats](github-readme-stats.vercel.app)
+  [![gunung-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
 
 <!--
 ** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
