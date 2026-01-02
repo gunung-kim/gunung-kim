@@ -11,8 +11,7 @@ fl<div>
   #### :raising_hand: I am gunung-kim.<br/>
   #### :fire: I aim to become a Backend Developer.
   <br/> 
-
-<br/>
+  <br/>
 
   ###  :pencil: I currently learning 
   - **python**
