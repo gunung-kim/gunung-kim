@@ -1,7 +1,6 @@
 <div>
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/a/pi?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
+  ![header]https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&descAlign=100&descAlignY=100&fontAlign=50&fontAlignY=50&animation=fadeIn
 </div>
 
 <div>
@@ -48,9 +47,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![gunung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![gunung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)]
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)](https://github.com/anuraghazra/github-readme-stats)   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)]  
 </div>
 
   ## :phone: How to reach me 
