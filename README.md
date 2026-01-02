@@ -42,7 +42,7 @@ fl<div>
   <br/>
   
   ## 🤔 Github Stats
-[Your GitHub stats](github-readme-stats.vercel.app)
+[gunung-kim](github-readme-stats.vercel.app)
   
 </div>
 
