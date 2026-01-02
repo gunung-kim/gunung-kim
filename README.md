@@ -1,6 +1,7 @@
 <div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&descAlign=100&descAlignY=100&fontAlign=50&fontAlignY=50&animation=fadeIn)
+<p align="center">
+  <img src="capsule-render.vercel.app" />
+</p>
 </div>
 
 <div>
