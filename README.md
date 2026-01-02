@@ -42,9 +42,9 @@ fl<div>
   <br/>
   
   ## 🤔 Github Stats
-  [![gunung-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![gunung-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)]
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)]
   
 </div>
 
