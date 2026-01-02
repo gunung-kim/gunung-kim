@@ -1,6 +1,6 @@
 fl<div>
   <!--Header-->
-  ![Header](capsule-render.vercel.app)[[(https://capsule-render.vercel.app/a/pi?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&descAlign=100&descAlignY=100&fontAlign=44&fontAlignY=50&animation=fadeIn&rotate=5)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&descAlign=100&descAlignY=100&fontAlign=50&fontAlignY=50&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/a/pi?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
   
 </div>
 
@@ -8,12 +8,17 @@ fl<div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a gunung-kim.<br/>
-  #### :fire: I aim to become a Backend Developer.<br/>
-  #### :mortar_board: 
+  #### :raising_hand: I am gunung-kim.<br/>
+  #### :fire: I aim to become a Backend Developer.
+  <br/> 
+
+<br/>
+
+  ###  :pencil: I currently learning 
+  - **python**
+  - **HTML/CSS**
+
   <br/>
-  <br/>
-  
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
@@ -42,12 +47,13 @@ fl<div>
   <br/>
   
   ## 🤔 Github Stats
-  [![gunung-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)]
+  [![gunung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)]
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)](https://github.com/anuraghazra/github-readme-stats)   
 </div>
 
+  ## :phone: How to reach me 
+   - Email [unge001@naver.com](malito:unge001@naver.com)
 
 <!--
 ** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
