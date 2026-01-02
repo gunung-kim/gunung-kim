@@ -49,11 +49,11 @@
   
   ## 🤔 Github Stats
   
-  [![gunung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunung-kim)]
+  [![gunung's GitHub stats](github-readme-stats.vercel.app)](github.com)
   
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunung-kim)]  
+  [![Top Langs](github-readme-stats.vercel.app)](github.com)
 
 </div>
 
